@@ -1,0 +1,4 @@
+console.log("vaibhav");
+let name="vaibhav"
+var price = 53.6
+console.table([name,price])
